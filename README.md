@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Ejemplo de repositorio modulo II PrepCourse Henry
+este proyecto es un ejemplo de repositorio modulo II PrepCourse Henry
